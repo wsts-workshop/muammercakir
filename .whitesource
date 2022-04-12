@@ -15,6 +15,7 @@
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
+    "enableRenovate": true,
     "workflowRules": {
       "enabled": true
     }
